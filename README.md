@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
