@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
