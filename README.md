@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
 | [3110-score-of-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
