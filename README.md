@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
 | [3110-score-of-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
