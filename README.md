@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3110-score-of-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
