@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
