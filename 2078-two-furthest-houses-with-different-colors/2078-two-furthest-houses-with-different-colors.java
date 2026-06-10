@@ -1,10 +1,20 @@
 class Solution {
-    public int maxDistance(int[] c) {
-        int j = c.length;
-        for(int i = 0; i < j; i++){
-            if (c[i] != c[j-1] || c[j - 1 - i] != c[i])
-                return j - 1 - i;
+    public int maxDistance(int[] a) {
+        int n = a.length;
+        int l = 0; 
+        int r = 0;
+        for(int i = 0; i < n; i++){
+            if(a[i] != a[n-1]){
+              l = i;
+              break;  
+            } 
         }
-        return 0;
+        for(int i = n - 1; i >=0; i--){
+            if(a[i] != a[0]){
+                r = i;
+                break;
+            } 
+        }
+        return Math.max(n - 1 - l, r);
     }
 }
