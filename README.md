@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SwedaElangovan-2802/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
