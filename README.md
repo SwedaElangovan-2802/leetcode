@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
