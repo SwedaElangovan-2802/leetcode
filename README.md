@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SwedaElangovan-2802/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
