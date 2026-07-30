@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1732-find-the-highest-altitude) |
