@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0704-binary-search) |
 ## Number Theory
