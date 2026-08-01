@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
 | ------- |
