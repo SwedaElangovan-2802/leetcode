@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0042-trapping-rain-water) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
