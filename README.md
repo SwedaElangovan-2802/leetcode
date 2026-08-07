@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SwedaElangovan-2802/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3731-find-missing-elements) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
