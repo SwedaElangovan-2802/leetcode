@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SwedaElangovan-2802/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/SwedaElangovan-2802/leetcode/tree/master/3110-score-of-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwedaElangovan-2802/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
